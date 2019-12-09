@@ -1,12 +1,12 @@
 {
-    "name": "larapack/voyager-hooks",
+    "name": "larapack/wldh-voyager-hooks",
     "description": "Hooks integrated in Voyager",
     "keywords": ["laravel", "hooks", "voyager"],
     "license": "MIT",
     "homepage": "https://larapack.io/",
     "support": {
-        "issues": "https://github.com/larapack/voyager-hooks/issues",
-        "source": "https://github.com/larapack/voyager-hooks"
+        "issues": "https://github.com/w33ladalah/voyager-hooks/issues",
+        "source": "https://github.com/w33ladalah/voyager-hooks"
     },
     "authors": [
         {
