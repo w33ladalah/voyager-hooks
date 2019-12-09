@@ -7,7 +7,7 @@ use Illuminate\Support\Facades\Artisan;
 use Illuminate\Support\ServiceProvider;
 use Larapack\Hooks\Events\Setup;
 use Larapack\Hooks\HooksServiceProvider;
-use TCG\Voyager\Facades\Voyager;
+use WLDH\Voyager\Facades\Voyager;
 
 class VoyagerHooksServiceProvider extends ServiceProvider
 {
