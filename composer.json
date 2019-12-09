@@ -1,5 +1,5 @@
 {
-    "name": "larapack/wldh-voyager-hooks",
+    "name": "wldh/voyager-hooks",
     "description": "Hooks integrated in Voyager",
     "keywords": ["laravel", "hooks", "voyager"],
     "license": "MIT",
